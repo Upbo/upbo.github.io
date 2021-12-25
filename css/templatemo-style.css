@@ -31,7 +31,7 @@ http://www.templatemo.com/tm-441-volton
  1. Reset
 -------------------------------------------------------- */
 #page-wraper {
-  background: url(/templatemo_441_volton/assets/images/page-bg.jpg) no-repeat center center fixed;
+  background: url(assets/images/page-bg.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
